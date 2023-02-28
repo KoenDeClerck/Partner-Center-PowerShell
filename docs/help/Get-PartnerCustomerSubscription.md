@@ -88,7 +88,7 @@ Accept wildcard characters: False
 ```
 
 ### -MpnId
-The Microsoft Parnter Network identifier that identifies the partner.
+The Microsoft Partner Network identifier that identifies the partner.
 
 ```yaml
 Type: String
